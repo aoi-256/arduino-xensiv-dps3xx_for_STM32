@@ -7,4 +7,4 @@
 - **Arudinoで使用する場合は、元のリポジトリを使ってください**
 
 ## License
-See the [LICENSE](LICENSE.md) file for more details.
+元リポジトリと同じライセンスで公開しています [LICENSE](LICENSE.md) 
